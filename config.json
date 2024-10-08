@@ -1,0 +1,11 @@
+{
+  "DATASETS_IN_USE": ["EXAMPLE"],
+  "DATASETS": {
+    "EXAMPLE": {
+      "PATH": "data/example.tree"
+      }
+  },
+  "TRAINING_PARAMETERS": {
+    "LEARNING_RATE": 0.001
+  }
+}
